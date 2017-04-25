@@ -2,6 +2,7 @@ This is our awesome page
 
 ** bold **
 * italic *
+** merge conflict **
 
 ```print hello world```
 
