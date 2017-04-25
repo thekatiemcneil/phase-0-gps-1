@@ -1,11 +1,5 @@
 This is our awesome page
 
-** bold **
-* italic *
-** merge conflict **
-
-* conflict *
-
 ```print hello world```
 
 ![image](/Users/erikasboren/Documents/devbootcamp/devbootcamp/phase-0-gps-1/screenshot.png)
